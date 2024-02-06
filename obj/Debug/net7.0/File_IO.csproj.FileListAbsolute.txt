@@ -1,0 +1,15 @@
+/Users/anandkunalmishra/Projects/File_IO/bin/Debug/net7.0/File_IO
+/Users/anandkunalmishra/Projects/File_IO/bin/Debug/net7.0/File_IO.deps.json
+/Users/anandkunalmishra/Projects/File_IO/bin/Debug/net7.0/File_IO.runtimeconfig.json
+/Users/anandkunalmishra/Projects/File_IO/bin/Debug/net7.0/File_IO.dll
+/Users/anandkunalmishra/Projects/File_IO/bin/Debug/net7.0/File_IO.pdb
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.csproj.AssemblyReference.cache
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.AssemblyInfoInputs.cache
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.AssemblyInfo.cs
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.csproj.CoreCompileInputs.cache
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.dll
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/refint/File_IO.dll
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.pdb
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/File_IO.genruntimeconfig.cache
+/Users/anandkunalmishra/Projects/File_IO/obj/Debug/net7.0/ref/File_IO.dll
